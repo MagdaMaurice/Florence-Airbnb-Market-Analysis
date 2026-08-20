@@ -47,18 +47,3 @@ An end-to-end data analysis project exploring the Florence Airbnb market, host d
 ├── dashboard_preview.png              # Clean export image of the Tableau dashboard
 ├── Florence_Airbnb_Market.twb         # Tableau Public workbook file
 └── README.md                          # Project documentation
-
----
-
-## 💻 How to Reproduce This Project
-
-1. **Clone and navigate to the repository:**
-   ```bash
-   git clone [https://github.com/MagdaMaurice/Florence-Airbnb-Market-Analysis.git](https://github.com/MagdaMaurice/Florence-Airbnb-Market-Analysis.git)
-   cd Florence-Airbnb-Market-Analysis
-
-2. Extract the dataset:
-Unzip data/Florence_Airbnb_Listings.zip to get the raw Florence_Airbnb_Listings.csv file.
-
-3. Open the workbook:
-Launch Florence_Airbnb_Market.twb in Tableau Desktop, or view the live interactive version on Tableau Public.
